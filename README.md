@@ -1,1 +1,1 @@
-# dummy-client
+# @appstack-io/dummy-client
